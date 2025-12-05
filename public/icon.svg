@@ -1,0 +1,25 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @media (prefers-color-scheme: light) {
+      .background { fill: black; }
+      .foreground { fill: white; }
+    }
+    @media (prefers-color-scheme: dark) {
+      .background { fill: white; }
+      .foreground { fill: black; }
+    }
+  </style>
+  <g clip-path="url(#clip0_7960_43945)">
+    <rect class="background" width="180" height="180" rx="37" />
+    <g style="transform: scale(95%); transform-origin: center">
+      <text class="foreground" x="90" y="100" text-anchor="middle" dominant-baseline="middle"
+        font-family="Inter, system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif"
+        font-size="84" font-weight="800" letter-spacing="2">SH</text>
+    </g>
+  </g>
+  <defs>
+    <clipPath id="clip0_7960_43945">
+      <rect width="180" height="180" fill="white" />
+    </clipPath>
+  </defs>
+</svg>
