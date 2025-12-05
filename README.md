@@ -1,0 +1,1 @@
+Softwares Hub is a Next.js web app that connects software houses across Pakistan in one place. Users can browse companies, explore services, read reviews, and easily find the right software house for their project. The platform aims to offer a simple, transparent, and reliable way to discover trusted tech companies.
